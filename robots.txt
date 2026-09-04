@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://betalandit.com/sitemap.xml
